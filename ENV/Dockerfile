@@ -1,0 +1,4 @@
+FROM almalinux:9
+ENV COURSE="DOCKER" \
+    TRAINER="HAREESH" \
+    DURATION="10HRS"
